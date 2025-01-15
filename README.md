@@ -65,47 +65,47 @@
 
 Ниже представлены скриншоты программы и результат работы каждого из компонентов.
 
-Авторизация:
+**Авторизация**:
 
 ![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/LoginPage.jpg)
 
-Регистрация:
+**Регистрация**:
 
 ![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/Handling%20errors%20during%20registration.jpg)
 
-Ошибка авторизации:
+**Ошибка авторизации**:
 
 ![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/Error%20notification.jpg)
 
-Главное меню:
+**Главное меню**:
 
 ![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/CalcNMCKMainMenu.PNG)
 
-Таблица для заполения входных данных:
+**Таблица для заполения входных данных**:
 
 ![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/TableView.jpg)
 
-Окно загрузки:
+**Окно загрузки**:
 
 ![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/Download%20window%20(waiting%20for%20response%20from%20server%20with%20files).jpg)
 
-Результат выполнения расчетов - файл с расширением xls:
+**Результат выполнения расчетов - файл с расширением xls**:
 
 ![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/ResultCalcInExel.PNG)
 
-Раздел автозаполнения полей:
+**Раздел автозаполнения полей**:
 
 ![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/AutoPurchase.PNG)
 
-Раздел меню "Анализатор постановлений":
+**Раздел меню "Анализатор постановлений"**:
 
 ![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/Analyzer.PNG)
 
-Результат выполнения анализатора - файл с расширением doc:
+**Результат выполнения анализатора - файл с расширением doc**:
 
 ![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/resultAnalyze.jpg)
 
-Раздел "Статусы":
+**Раздел "Статусы"**:
 
 ![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/Status.jpg)
 

@@ -107,7 +107,7 @@
 
 **Раздел "Статусы"**:
 
-![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/Status.jpg)
+![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/Status.PNG)
 
 
 

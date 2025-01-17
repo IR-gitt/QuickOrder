@@ -114,5 +114,5 @@
 ![Screnshot](https://github.com/IR-gitt/QuickOrder/blob/master/Status.PNG)
 
 
-
+Установочный файл демо версии доступен по ссылке: http://46.8.232.112:8090/downloadQOSETUP
 
